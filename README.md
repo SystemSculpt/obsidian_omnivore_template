@@ -7,10 +7,10 @@ This README provides guidance on setting up and using the Obsidian Omnivore temp
 Omnivore is a powerful tool for managing your digital reading and highlighting across various platforms. This README will help you integrate Omnivore with Obsidian, enhancing your note-taking and content management workflow.
 
 ## Useful Links
-[Omnivore Homepage](https://omnivore.app/home)
-[Create your Omnivore API key here](https://omnivore.app/settings/api)
-[Connect with your Obsidian / Readwise](https://omnivore.app/settings/integrations)
-[Don't have a Readwise? Click here for 60 days free trial](https://readwise.io/systemsculpt)
+- [Omnivore Homepage](https://omnivore.app/home)
+- [Create your Omnivore API key here](https://omnivore.app/settings/api)
+- [Connect with your Obsidian / Readwise](https://omnivore.app/settings/integrations)
+- [Don't have a Readwise? Click here for 60 days free trial](https://readwise.io/systemsculpt)
 
 ## The Template
 To integrate Omnivore with Obsidian, you need to set up a specific template in the Omnivore settings within Obsidian. Here's the template that you should put in the Omnivore settings (within Obsidian settings) under `Article Template`:
